@@ -1,0 +1,15 @@
+{
+  "name": "projecct-css",
+  "version": "1.0.0",
+  "description": "This page built on HTML and vanilla CSS. No more functionality has been added to it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server"
+  },
+  "author": "Md Mahdi Hasan Tazelly",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
